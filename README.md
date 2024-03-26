@@ -4,38 +4,38 @@
 How to use webstorm
 1. download Webstorm Download Link: https://www.jetbrains.com/community/education/#students
 2. download git, Download Link: https://git-scm.com/downloads
-3. create an account on github
+3. create an account on GitHub
 4. Connect Github with webstorm by accessing system prefences, selecting version control git, and entering the path to git.exe
 5. Create a password to webstorm
    
-How to create Repository in github and webstorm
+How to create a Repository in GitHub and webstorm
 1. click the plus sign in the upper right corner
-2. click create new repository
-3. on webstorm, click VCS and import into version control
+2. Click Create New Repository
+3. On Webstorm, click VCS and import into the version control
 
 
 #Part 2
 
-**Branch** - A copy of a codeline that's managed in a version control system
+**Branch** - A copy of a code line that's managed in a version control system
 
-**Clone** - hardware or software designed to work the same way as another system
+**Clone** - Hardware or software designed to work the same way as another system
 
-**Commit** - updating a recordi in a database
+**Commit** - Updating a records in a database
 
-**Fetch** - getting data with a software, script, or hardware
+**Fetch** - Getting data with a software, script, or hardware
 
-**GIT** - an open source version control system that's available under the GNU genral public license
+**GIT** - An open-source version control system that's available under the GNU general public license
 
-**Github** - a web based interface that uses git, allows more than one person to make seperate changes to a website at the same time
+**Github** - A web-based interface that uses git, allows more than one person to make separate changes to a website at the same time
 
-**Merge** - adds, appends, or removes duplicates from a dataset
+**Merge** - Adds, appends, or removes duplicates from a dataset
 
-**Merge Conflict** - when git isn't able to resolve a difference in code between two commits
+**Merge Conflict** - When git isn't able to resolve a difference in code between two commits
 
-**Push** - communication where there's a request initated by a publisher or central server
+**Push** - Communication where there's a request initiated by a publisher or central server
 
-**Pull** - communication where a data request comes from the client
+**Pull** - Communication where a data request comes from the client
 
-**Remote** - access to a network or computer from a distance away
+**Remote** - Access to a network or computer from a distance away
 
-**Repository** - a place where data is kept and maintained in the storage of a computer
+**Repository** - A place where data is kept and maintained in the storage of a computer
